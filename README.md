@@ -1,6 +1,7 @@
 # navigating
 
-A new Flutter project.
+documento base
+https://www.canva.com/design/DAFi_tPlnMA/bF9aYHx7lB5DHCBbNJtksA/edit
 
 ## Getting Started
 
